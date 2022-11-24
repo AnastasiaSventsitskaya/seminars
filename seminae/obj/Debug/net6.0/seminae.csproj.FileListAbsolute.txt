@@ -1,0 +1,15 @@
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/bin/Debug/net6.0/seminae
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/bin/Debug/net6.0/seminae.deps.json
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/bin/Debug/net6.0/seminae.runtimeconfig.json
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/bin/Debug/net6.0/seminae.dll
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/bin/Debug/net6.0/seminae.pdb
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/obj/Debug/net6.0/seminae.csproj.AssemblyReference.cache
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/obj/Debug/net6.0/seminae.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/obj/Debug/net6.0/seminae.AssemblyInfoInputs.cache
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/obj/Debug/net6.0/seminae.AssemblyInfo.cs
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/obj/Debug/net6.0/seminae.csproj.CoreCompileInputs.cache
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/obj/Debug/net6.0/seminae.dll
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/obj/Debug/net6.0/refint/seminae.dll
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/obj/Debug/net6.0/seminae.pdb
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/obj/Debug/net6.0/seminae.genruntimeconfig.cache
+/Users/anastasiasventsitskaya/Desktop/C#/seminae/obj/Debug/net6.0/ref/seminae.dll
